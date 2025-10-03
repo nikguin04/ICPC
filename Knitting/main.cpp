@@ -4,7 +4,9 @@ using namespace std;
 const int MOD = 1e9 + 7;
 
 int main(int argc, char* argv[]) {
-  cout << "Argument count: " << argc;
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
+  
   int a = 2;
   return 0;
 }
