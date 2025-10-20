@@ -1,0 +1,1 @@
+Get-Content .\0.in | python main.py
